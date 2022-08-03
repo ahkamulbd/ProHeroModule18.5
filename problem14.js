@@ -8,4 +8,4 @@ console.log(arrayElements.length);
 
 var positionIndex = arrayElements.indexOf(9);
 
-console.log(positionIndex);
+console.log(positionIndex); // It will print -1, because 9 is not an element of arrayElements. 
